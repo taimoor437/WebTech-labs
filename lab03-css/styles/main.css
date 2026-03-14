@@ -1,0 +1,33 @@
+
+body{
+font-family: Arial, sans-serif;
+margin:40px;
+}
+
+h1{
+color:#333;
+}
+
+.text{
+color:blue;
+}
+
+#title{
+text-decoration:underline;
+}
+
+*{
+box-sizing:border-box;
+}
+
+.container span{
+color:green;
+}
+
+a:hover{
+color:red;
+}
+
+ul li:first-child{
+font-weight:bold;
+}
